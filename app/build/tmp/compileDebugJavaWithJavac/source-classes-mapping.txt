@@ -1,0 +1,10 @@
+com/odometer/BuildConfig.java
+ com.odometer.BuildConfig
+com/odometer/OdometerService.java
+ com.odometer.OdometerService
+ com.odometer.OdometerService$1
+ com.odometer.OdometerService$OdometerBinder
+com/odometer/MainActivity.java
+ com.odometer.MainActivity
+ com.odometer.MainActivity$1
+ com.odometer.MainActivity$2
